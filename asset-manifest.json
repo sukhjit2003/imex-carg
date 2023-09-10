@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imex-carg/static/css/main.b026715d.css",
+    "main.js": "/imex-carg/static/js/main.2f7cbc99.js",
+    "static/js/787.3917e8bc.chunk.js": "/imex-carg/static/js/787.3917e8bc.chunk.js",
+    "static/media/logo.svg": "/imex-carg/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/imex-carg/index.html",
+    "main.b026715d.css.map": "/imex-carg/static/css/main.b026715d.css.map",
+    "main.2f7cbc99.js.map": "/imex-carg/static/js/main.2f7cbc99.js.map",
+    "787.3917e8bc.chunk.js.map": "/imex-carg/static/js/787.3917e8bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b026715d.css",
+    "static/js/main.2f7cbc99.js"
+  ]
+}
